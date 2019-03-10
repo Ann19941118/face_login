@@ -1,0 +1,1 @@
+create table face_json(json VARCHAR(3000),pic_name VARCHAR(40),date VARCHAR(40),state INT,uid VARCHAR(40),ugroup VARCHAR(40));
